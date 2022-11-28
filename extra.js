@@ -1,3 +1,5 @@
+//ingredients
+
 let spaghetti = 400;
 let guanciale = 250;
 let eggYolk = 18 * 6;

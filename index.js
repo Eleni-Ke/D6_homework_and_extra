@@ -4,7 +4,7 @@ let myLastName = "Kellermann";
 
 let myFullName = myFirstName + " " + myMiddleName + " "+ myLastName;
 
-console.log("hello, my name is ", myFullName);
+console.log("hello, my name is", myFullName);
 
 let myCurrentAge = 29;
 let currentYear = 2022;
