@@ -49,5 +49,7 @@ console.log("Add the", combineBitPepperWithEggAndCheese, "g of egg and cheese mi
 let addPepperToFinishMeal = addEggAndCheeseMixToPastaAndGuanciale + restOfPepper;
 console.log("Add the remaining", restOfPepper, "g of Pepper to the meal.");
 
+//Serving the carbonara
+
 let carbonara = addPepperToFinishMeal;
 console.log("Immediatly serve", carbonara, "g of carbonara.");
